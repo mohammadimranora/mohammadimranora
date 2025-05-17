@@ -4,7 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Hi, I’m a full-stack JavaScript and PHP developer and currently a Technical Leader at Total AI Systems Inc. I have over 5 years of experience building fintech products—especially in the debt-collection space—using Node.js, Nest.js, and React.js. What I Build: \* Back end: Node.js and Nest.js micro-services with TypeORM or Prisma, PostgreSQL, and Redis. \* Front end: React.js interfaces that turn complex financial data into clear, actionable views. \* DevOps: Docker for containerization, CI/CD with GitHub Actions, and Infrastructure as Code with Terraform. Current Wins at Total AI Systems: \* Adaptive Repayment Engine – machine learning-based schedules that cut default rates by 14%. \* Real-time Compliance Layer – automated CFPB checks that save about 20 hours per week. Tech I use and love: JavaScript, TypeScript, PHP, Nest.js, Node.js, React.js, Next.js, PostgreSQL, Redis, RabbitMQ, Docker, AWS, Terraform Beyond Code: I enjoy analyzing NBA game footage, experimenting with coffee brewing, and mentoring students in coding. Let’s Collaborate: I’m open to pair programming, building open-source fintech tools, or working on side projects that involve learning and growth. Feel free to reach out!
+Hi, I’m a full-stack JavaScript and PHP developer and currently a Technical Leader at Total AI Systems Inc. I have over 5 years of experience building fintech products—especially in the debt-collection space—using Node.js, Nest.js, and React.js. 
+
+What I Build: 
+
+Back end: Node.js and Nest.js micro-services with TypeORM or Prisma, PostgreSQL, and Redis.
+
+Front end: React.js interfaces that turn complex financial data into clear, actionable views.
+
+DevOps: Docker for containerization, CI/CD with GitHub Actions, and Infrastructure as Code with Terraform. 
+
+Current Wins at Total AI Systems: 
+Adaptive Repayment Engine – machine learning-based schedules that cut default rates by 14%.
+
+Real-time Compliance Layer – automated CFPB checks that save about 20 hours per week. 
+
+Tech I use and love: JavaScript, TypeScript, PHP, Nest.js, Node.js, React.js, Next.js, PostgreSQL, Redis, RabbitMQ, Docker, AWS. 
+
+Beyond Code: I enjoy analyzing NBA game footage, experimenting with coffee brewing, and mentoring students in coding. Let’s Collaborate: I’m open to pair programming, building open-source fintech tools, or working on side projects that involve learning and growth. 
+
+Feel free to reach out!
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [mohammadimranora@outlook.com](mailto:mohammadimranora@outlook.com)
