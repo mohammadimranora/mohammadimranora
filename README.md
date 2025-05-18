@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
+<p align="justify">
 I'm a full-stack Software Developer and Technical Leader with over 5 years of experience in designing, developing, and deploying scalable web applications and fintech solutions. Proficient in JavaScript, TypeScript, Node.js, Nest.js, PHP, CodeIgniter, Laravel, and cloud platforms including AWS. Experienced in both relational and NoSQL databases such as MySQL and MongoDB. Strong background in the FinTech, EdTech, and Telecom industries, with a particular focus on building and optimizing debt collection platforms. Proven ability to lead development teams, manage full software development lifecycles, and deliver high-performance applications.
+</p>
 
 **Core Competencies:**
 
@@ -24,21 +26,34 @@ What I Build:
 
 **Back-End Development:**
 
+<p align="justify">
 I design and develop scalable microservices using Node.js and Nest.js, with a strong focus on modular architecture and clean code. My back-end implementations use TypeORM with MySQL for data persistence, and Redis for caching and improving application performance.
+</p>
+
 
 **Front-End Development**
 
+<p align="justify">
 I build responsive and user-friendly interfaces using React.js, JavaScript, HTML, and CSS. I focus on translating complex financial data into intuitive, actionable user experiences. I also have experience working with jQuery to enhance interactivity and support legacy codebases.
+</p>
 
 **DevOps**
 
+<p align="justify">
 Experienced in using Docker for containerization and managing development environments. I implement CI/CD pipelines using GitHub Actions to automate testing, builds, and deployments for efficient software delivery.
+</p>
 
-**Key Achievements at Total AI Systems Inc**
 
+**Key Achievements at Total AI Systems Inc.**
+
+<p align="justify">
 *Cost Optimization*: Reduced Amazon S3 storage costs from $300/month to $5/month by implementing efficient Lifecycle Rules, significantly improving cloud resource utilization.
+</p>
 
+<p align="justify">
 *Performance Optimization*: Improved production performance by 30% by implementing message queues for asynchronous communication and refactoring synchronous processes to asynchronous workflows where applicable, resulting in faster response times and improved system scalability.
+</p>
+
 
 **Tech I use and love** 
 
@@ -46,7 +61,9 @@ JavaScript, TypeScript, PHP, Nest.js, Node.js, React.js, Next.js, Redis, RabbitM
 
 **Beyond Code** 
 
+<p align="justify">
 I enjoy mentoring students in coding. Let’s Collaborate: I’m open to pair programming, building open-source tools, or working on side projects that involve learning and growth. 
+</p>
 
 **Feel free to reach out!**
 
