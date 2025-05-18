@@ -47,11 +47,11 @@ Experienced in using Docker for containerization and managing development enviro
 **Key Achievements at Total AI Systems Inc.**
 
 <p align="justify">
-*Cost Optimization*: Reduced Amazon S3 storage costs from $300/month to $5/month by implementing efficient Lifecycle Rules, significantly improving cloud resource utilization.
+Cost Optimization: Reduced Amazon S3 storage costs from $300/month to $5/month by implementing efficient Lifecycle Rules, significantly improving cloud resource utilization.
 </p>
 
 <p align="justify">
-*Performance Optimization*: Improved production performance by 30% by implementing message queues for asynchronous communication and refactoring synchronous processes to asynchronous workflows where applicable, resulting in faster response times and improved system scalability.
+Performance Optimization: Improved production performance by 30% by implementing message queues for asynchronous communication and refactoring synchronous processes to asynchronous workflows where applicable, resulting in faster response times and improved system scalability.
 </p>
 
 
